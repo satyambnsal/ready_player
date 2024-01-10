@@ -1,12 +1,14 @@
 {
   "name": "ready_player",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
   "author": {
     "name": "Satyam Bansal",
     "email": "satyamsgsits1994@gmail.com"
   },
+  "type": "module",
+  "main": "build/src/index.js",
+  "types": "build/src/index.d.ts",
   "scripts": {
     "build": "tsc",
     "buildw": "tsc --watch",

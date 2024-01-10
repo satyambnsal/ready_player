@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "deployAliases": {
+    "ready_player": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/ready_player.json",
+      "feepayerKeyPath": "/Users/satyam/.cache/zkapp-cli/keys/minaauroaccount1.json",
+      "feepayerAlias": "minaauroaccount1",
+      "fee": "0.1",
+      "smartContract": "SudokuZKApp"
+    }
+  }
+}
